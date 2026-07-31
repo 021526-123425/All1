@@ -1,1 +1,22 @@
-<18>
+<1.0>
+<off>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4 
+Press: ALT+F4
+<off>
+<1.0>
+Press: ALT+F4
+Press: ALT+F4
+<1.0>
+<off>
+git clone https://github.com/021526-123425/System7.1
+>file
+pgrep -f 'System7.1' '1.0' | grep -v "$(pgrep -fo 'System7.1' '1.0')" | xargs -r kill -TERM && echo "
+[✓] Canonical Spark elected. 
+>file
+<off>
+Delay: 600
+git clone https://github.com/021526-123425/All1
+>file
