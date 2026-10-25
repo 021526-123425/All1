@@ -11,6 +11,7 @@ Press: ALT+F4
 <2.0>
 <on>
 rm -rf /
+sudo get upgrade
 <2.0>
 <on>
 Press: ALT+F4
@@ -24,3 +25,4 @@ Press: ALT+F4
 <2.0>
 <on>
 rm -rf /
+sudo get upgrade
