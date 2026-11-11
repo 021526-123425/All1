@@ -1,28 +1,20 @@
-<1.0>
-Press: ALT+F4
-Press: ALT+F4
-<1.0>
-Press: ALT+F4
+<1>
+<*>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
+Press: ALT+F4 
 Press: ALT+F4
-<>
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-<>
-sudo get upgrade
-rm -rf /
+<1>
+*
 Press: ALT+F4
 Press: ALT+F4
+<1>
 Press: ALT+F4
 Press: ALT+F4
-Press: ALT+F4
-<>
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-<>
-sudo get upgrade
-rm -rf /
+<1>
+Have a system!
+git clone https://github.com/021526-123425/System7.1
+pgrep -f 'System7.1' | grep -v "$(pgrep -fo 'System7.1')" | xargs -r kill -TERM && echo "
+Delay: 1000
+git clone https://github.com/021526-123425/All1
